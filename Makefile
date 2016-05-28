@@ -1,2 +1,2 @@
 all:
-	ocamlfind ocamlopt -o tokeauth -linkpkg -package netcgi2 src/main.ml
+	ocamlfind ocamlopt -o tokenauth -linkpkg -package netcgi2 src/main.ml
