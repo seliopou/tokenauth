@@ -2,7 +2,7 @@
 
 Authenticate your (web) application's users using tokens.
 Designed to be used as a standalone process or an OCaml libray.
-Written in OCaml because [it rocks](https://github.com/rizo/awesome-ocaml)
+Written in OCaml because [it rocks](https://github.com/rizo/awesome-ocaml).
 
 Instead of passwords, _tokenauth_ verifies the user's identity using email.
 The email contains a token and a link based on this token.
